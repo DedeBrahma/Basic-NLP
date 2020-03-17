@@ -1,4 +1,4 @@
-# Basic-NLP
-Basic Practical Guide of Natural Language Processing(NLP)
+# Text-Preprocessing
+Basic Practical Guide of Text Analytics
 
-Here are some practical examples of NLP using Google Colab with NLP Library
+Here are some practical examples using Google Colab with python Library
